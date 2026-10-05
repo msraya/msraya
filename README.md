@@ -30,9 +30,9 @@ Currently, he is an Associate Professor in the Department of Electronics and Aut
 ---
 
 ### Links
-* [Perfil en la Universidad de Huelva](https://www.uhu.es/)
-* [LinkedIn](https://linkedin.com/)
-* [ResearchGate](https://www.researchgate.net/)
+* [Perfil en la Universidad de Huelva](https://uhu.es/expertos-uhu/experto/manuel-sanchez-raya)
+* [LinkedIn](https://www.linkedin.com/in/manuel-s%C3%A1nchez-raya-43ba5b45/)
+* [ResearchGate](https://www.researchgate.net/profile/M-Sanchez-Raya)
 
 ---
 
