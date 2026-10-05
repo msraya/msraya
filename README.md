@@ -22,10 +22,10 @@ Currently, he is an Associate Professor in the Department of Electronics and Aut
 ---
 
 ### Researcher IDs
-* **ORCID:** https://orcid.org/0000-0001-6883-4317
-* **ResearcherID (Web of Science):** [Insertar ID]
-* **AuthorID (Scopus):** https://www.scopus.com/inward/authorDetails.uri?authorID=9640190400
-* **Google Scholar:** https://scholar.google.com/citations?user=W5-4jW8AAAAJ
+* **ORCID:** [0000-0001-6883-4317](https://orcid.org/0000-0001-6883-4317)
+* **ResearcherID (Web of Science):** [AAA-7745-2020](https://www.webofscience.com/wos/author/record/AAA-7745-2020)
+* **AuthorID (Scopus):** [9640190400](https://www.scopus.com/inward/authorDetails.uri?authorID=9640190400)
+* **Google Scholar:** [W5-4jW8AAAAJ](https://scholar.google.com/citations?user=W5-4jW8AAAAJ)
 
 ---
 
